@@ -1,0 +1,15 @@
+.todoCard{
+    background-color:#ffbf00;
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+    border-radius: 15px;
+
+}
+
+.iconsDiv{
+    width: 20%;
+    display: flex;
+    justify-content: space-between;
+}
